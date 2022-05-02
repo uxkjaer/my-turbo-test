@@ -1,0 +1,20 @@
+{
+  "name": "ui-test-jmk",
+  "entries": [
+    {
+      "date": "Mon, 02 May 2022 20:15:02 GMT",
+      "tag": "ui-test-jmk_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "major": [
+          {
+            "author": "j.kjaer@sap.com",
+            "package": "ui-test-jmk",
+            "commit": "3fb6f73b599308960dab54a693cc20d929066a03",
+            "comment": "remove change"
+          }
+        ]
+      }
+    }
+  ]
+}
