@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "beep",
+  "packageName": "ui-test-jmk",
+  "email": "j.kjaer@sap.com",
+  "dependentChangeType": "patch"
+}
