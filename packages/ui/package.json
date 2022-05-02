@@ -1,6 +1,6 @@
 {
   "name": "ui-test-jmk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./index.tsx",
   "types": "./index.tsx",
   "license": "MIT",
@@ -14,11 +14,10 @@
   },
   "scripts": {
     "check": "beachball check",
-"change": "beachball change",
+    "change": "beachball change",
     "lint": "beachball lint",
     "test": "beachball test",
     "watch": "beachball watch",
     "publish": "beachball publish"
-  
   }
 }
