@@ -1,0 +1,7 @@
+{
+  "type": "major",
+  "comment": "Change files",
+  "packageName": "ui-test-jmk",
+  "email": "j.kjaer@sap.com",
+  "dependentChangeType": "patch"
+}
