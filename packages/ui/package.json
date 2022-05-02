@@ -1,5 +1,5 @@
 {
-  "name": "ui",
+  "name": "ui-test-jmk",
   "version": "0.0.0",
   "main": "./index.tsx",
   "types": "./index.tsx",
@@ -7,8 +7,18 @@
   "devDependencies": {
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
-    "tsconfig": "workspace:*",
+    "beachball": "^2.22.0",
     "config": "workspace:*",
+    "tsconfig": "workspace:*",
     "typescript": "^4.5.3"
+  },
+  "scripts": {
+    "check": "beachball check",
+"change": "beachball change",
+    "lint": "beachball lint",
+    "test": "beachball test",
+    "watch": "beachball watch",
+    "publish": "beachball publish"
+  
   }
 }
